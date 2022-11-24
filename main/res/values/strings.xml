@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conveter</string>
+    <string name="titre">Currency Converter </string>
+    <string name="From">From</string>
+    <string name="actv">select country</string>
+    <string name="ad">American Dollar</string>
+    <string name="m">Dirham</string>
+    <string name="To">To</string>
+    <string name="amount">Amount</string>
+    <string name="email">"@gmail.com"</string>
+    <string name="btn">Converter</string>
+
+</resources>
